@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3> Hi there 👋</h3>
 
 <!--
 **SusyAnneR/SusyAnneR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
