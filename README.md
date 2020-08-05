@@ -31,7 +31,6 @@ React Native
 <b></></b>
 NodeJS
 
-<br>
 
 <h3>∻ Colaboração</h3>
 Colaboro ajudando iniciantes em seus códigos, analisando possíveis erros e
