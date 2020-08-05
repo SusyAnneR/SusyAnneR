@@ -1,17 +1,44 @@
-![_sitebacana (3)](https://user-images.githubusercontent.com/36510291/89353096-15ef6f00-d68c-11ea-8a71-91d71c4ff3bf.png)
+![_sitebacana (5)](https://user-images.githubusercontent.com/36510291/89354641-beeb9900-d68f-11ea-8771-ae5baea83d6c.png)
 
 
-<!--
-**SusyAnneR/SusyAnneR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>⟫ Status Profissional</h2>
+<br> Em busca de oportunidades profissional na área de desenvolvimento.</br>
+ 
+ 
+<h2>⟫ Estudos</h2>
+<br> Atualmente venho adquirindo conhecimento em tecnologias como:
 
-Here are some ideas to get you started:
+<b></></b>
+HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b></></b>
+CSS
+
+<b></></b>
+JavaScript</br>
+
+<b></></b>
+React Js
+
+<b></></b>
+React Native
+
+<b></></b>
+NodeJS
+
+
+<h2>⟫ Colaboração</h2>
+
+
+
+<h2>⟫ Conte Comigo</h2>
+Crio conteúdos informativos para ajudar quem está iniciando na area de
+desenvolvimento. São compartilhados na minha página no instagram.
+
+
+<h2>⟫ Contatos</h2>
+
+
+
+
+
