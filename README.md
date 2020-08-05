@@ -48,6 +48,6 @@ desenvolvimento. São compartilhados na minha página no instagram.
 <!--site de icons: https://icon-icons.com/icon-->
  
 <a href="https://www.linkedin.com/in/susy-anne-v-38a8a0115/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/linkedin.png" width="32" height="32"> </a> <a href="https://www.instagram.com/mrs.curiosity01/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/instagram.png" width="32" height="32"></a> 
-<a href="susy:suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/email.png" width="32" height="32"> </a> <a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/twitch.png" width="32" height="32"></a>  <a href="https://t.me/Susy_WDev" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/telegram.png" width="32" height="32"></a> 
+<a href="mailto:suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/email.png" width="32" height="32"> </a> <a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/twitch.png" width="32" height="32"></a>  <a href="https://t.me/Susy_WDev" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/telegram.png" width="32" height="32"></a> 
   
   
