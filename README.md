@@ -7,7 +7,7 @@ Plenamente adepta a capacidade de inovação que possuímos, e a capacidade de f
 <i>"No one ever made a difference by being like everyone else."_TGS</i> 
 <br>
 <h3>∻ Status Profissional</h3>
-Em busca de oportunidades profissional na área de desenvolvimento.</br>
+Em busca de oportunidades profissionais na área de desenvolvimento.</br>
  
  
 <h3>∻ Estudos</h3>
