@@ -38,8 +38,15 @@ desenvolvimento. São compartilhados na minha página no instagram.
 
 
 <h3>∻ Contatos</h3>
-<a href="https://linkedin.com/in/lucastavaresn" target="_blank" rel="noopener"> <img src="linkedin.png" width="25" height="25"> </a> <a href="https://twitch.tv/lucastavaresn" target="_blank" rel="noopener"><img src="twitch.png" width="25" height="25"> <a href="https://instagram.com/lucastavaresn" target="_blank" rel="noopener"><img src="instagram.png" width="25" height="25"> </a>  <a href="https://twitter.com/lucastavaresn" target="_blank" rel="noopener"><img src="twitter.png" width="25" height="25"> </a>  <a href="https://youtube.com/lucastavaresn" target="_blank" rel="noopener"><img src="youtube.png" width="25" height="25"> </a>
 
-
-
+<!--Linkedin-->
+<a href="https://www.linkedin.com/in/susy-anne-v-38a8a0115/" target="_blank" rel="noopener> <img src="linkedin.png" width"25" heigth"25"></a>
+<!--Instagram-->
+<a href="https://www.instagram.com/mrs.curiosity01/" target="_blank" rel="noopener> <img src="instagram.png" width"25" heigth"25"></a>
+<!--E-mail-->
+<a href="suzyanne_08@hotmail.com" target="_blank" rel="noopener> <img src="email.png" width"25" heigth"25"></a>
+<!--Twitch-->
+<a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener> <img src="twitch.png" width"25" heigth"25"></a>
+<!--Telegram-->
+<a href="https://t.me/Susy" target="_blank" rel="noopener> <img src="telegram.png" width"50" heigth"50"></a>
 
