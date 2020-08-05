@@ -38,8 +38,7 @@ desenvolvimento. São compartilhados na minha página no instagram.
 
 
 <h3>∻ Contatos</h3>
-<a href="https://www.linkedin.com/in/susy-anne-v-38a8a0115/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"height="25" width"25"></a>    <a href="https://www.instagram.com/mrs.curiosity01/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" height="25" width"25"></a>   <a href="https:suzyanne_08@hotmail.com"><img src="https://multarte.com.br/wp-content/uploads/2020/05/mail-circle-icon.png" height="25" width"25"></a>   <a href="https://www.twitch.tv/sany_girlcode"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png" height="25" width"25"></a>    <a href="https://t.me/Susy"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" height="25" width"25"></a>
-
+<a href="https://linkedin.com/in/lucastavaresn" target="_blank" rel="noopener"> <img src="linkedin.png" width="25" height="25"> </a> <a href="https://twitch.tv/lucastavaresn" target="_blank" rel="noopener"><img src="twitch.png" width="25" height="25"> <a href="https://instagram.com/lucastavaresn" target="_blank" rel="noopener"><img src="instagram.png" width="25" height="25"> </a>  <a href="https://twitter.com/lucastavaresn" target="_blank" rel="noopener"><img src="twitter.png" width="25" height="25"> </a>  <a href="https://youtube.com/lucastavaresn" target="_blank" rel="noopener"><img src="youtube.png" width="25" height="25"> </a>
 
 
 
