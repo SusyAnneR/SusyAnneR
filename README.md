@@ -36,17 +36,6 @@ Crio conteúdos informativos para ajudar quem está iniciando na area de
 desenvolvimento. São compartilhados na minha página no instagram.
 
 
-
 <h3>∻ Contatos</h3>
-<!--site de icons: https://icon-icons.com/icon/social-media-twitter-circle/83078-->
-
-<!--Linkedin-->
-<a href="https://www.linkedin.com/in/susy-anne-v-38a8a0115/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/linkedin.png" width"25" heigth"25"> </a>  
-<!--Instagram-->
-<a href="https://www.instagram.com/mrs.curiosity01/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/instagram.png" width"25" heigth"25"></a>  
-<!--E-mail-->
-<a href="suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="email.png" width"25" heigth"25"></a>  
-<!--Twitch-->
-<a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="twitch.png" width"25" heigth"25"></a>  
-<!--Telegram-->
-<a href="https://t.me/Susy" target="_blank" rel="noopener"> <img src="telegram.png" width"25" heigth"25"></a>
+<!--site de icons: https://icon-icons.com/icon-->
+  <a href="https://www.linkedin.com/in/susy-anne-v-38a8a0115/" target="_blank" rel="noopener"> <img src="linkedin.png" width="32" height="32"> </a>     <a href="https://www.instagram.com/mrs.curiosity01/" target="_blank" rel="noopener"> <img src="instagram.png" width="32" height="32"></a>     <a href="suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="email.png" width="32" height="32"></a>     <a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="twitch.png" width="32" height="32"></a>     <a href="https://t.me/Susy" target="_blank" rel="noopener"> <img src="telegram.png" width="32" height="32"></a>
