@@ -39,14 +39,3 @@ desenvolvimento. São compartilhados na minha página no instagram.
 
 <h3>∻ Contatos</h3>
 
-<!--Linkedin-->
-<a href="https://www.linkedin.com/in/susy-anne-v-38a8a0115/" target="_blank" rel="noopener> <img src="linkedin.png" width"25" heigth"25"></a>
-<!--Instagram-->
-<a href="https://www.instagram.com/mrs.curiosity01/" target="_blank" rel="noopener> <img src="instagram.png" width"25" heigth"25"></a>
-<!--E-mail-->
-<a href="suzyanne_08@hotmail.com" target="_blank" rel="noopener> <img src="email.png" width"25" heigth"25"></a>
-<!--Twitch-->
-<a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener> <img src="twitch.png" width"25" heigth"25"></a>
-<!--Telegram-->
-<a href="https://t.me/Susy" target="_blank" rel="noopener> <img src="telegram.png" width"50" heigth"50"></a>
-
