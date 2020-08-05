@@ -1,5 +1,4 @@
 ![_sitebacana (5)](https://user-images.githubusercontent.com/36510291/89363951-ce76dc00-d6a7-11ea-8e24-019e55a818ed.png)
-
 <br>
 
 <center>Plenamente adepta a capacidade de inovação que possuímos, e a capacidade de fazer acontecer, sigo em uma busca constante de aprendizado, no intuito de contribuir pra essa grande inovação que vem ocorrendo no mundo. Desafiando-me todos os dias, ultrapassando meus limites e com pequenas conquistas ao fim do dia vou moldando o meu conhecimento para me levar ao impossivel.</center>
