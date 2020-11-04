@@ -1,4 +1,4 @@
-![_sitebacana (5)](https://user-images.githubusercontent.com/36510291/89363951-ce76dc00-d6a7-11ea-8e24-019e55a818ed.png)
+![_sitebacana](https://user-images.githubusercontent.com/36510291/98156077-0c0d2000-1eb6-11eb-881e-2b999e0d9588.png)
 <br>
 
 Plenamente adepta a capacidade de inovação que possuímos, e a capacidade de fazer acontecer, sigo em uma busca constante de aprendizado, no intuito de contribuir pra essa grande inovação que vem ocorrendo no mundo. Desafiando-me todos os dias, ultrapassando meus limites e com pequenas conquistas ao fim do dia vou moldando o meu conhecimento para me levar ao impossivel.
@@ -47,7 +47,7 @@ desenvolvimento. São compartilhados na minha página no instagram.
 <h3>∻ Contatos</h3>
 <!--site de icons: https://icon-icons.com/icon-->
  
-<a href="https://www.linkedin.com/in/susyannevr/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/linkedin.png" width="32" height="32"> </a> <a href="https://www.instagram.com/mrs.curiosity01/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/instagram.png" width="32" height="32"></a> 
+<a href="https://www.linkedin.com/in/susyannevr/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/linkedin.png" width="32" height="32"> </a> <a href="https://www.instagram.com/girlindev/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/instagram.png" width="32" height="32"></a> 
 <a href="mailto:suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/email.png" width="32" height="32"> </a> <a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/twitch.png" width="32" height="32"></a>  <a href="https://t.me/Susy_WDev" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/telegram.png" width="32" height="32"></a> 
   
   
