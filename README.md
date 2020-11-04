@@ -1,10 +1,10 @@
 ![_sitebacana](https://user-images.githubusercontent.com/36510291/98169456-05d56e80-1ecb-11eb-9332-25abf3c5bfbf.png)
 <br>
 
-<h4 align="center">Plenamente adepta a capacidade de inovação que possuímos, e a capacidade de fazer acontecer, sigo em uma busca constante de aprendizado, no intuito de contribuir pra essa grande inovação que vem ocorrendo no mundo. Desafiando-me todos os dias, ultrapassando meus limites e com pequenas conquistas, vou moldando minha mente para me levar ao impossível.
-  </h4>
+<p align="center">Plenamente adepta a capacidade de inovação que possuímos, e a capacidade de fazer acontecer, sigo em uma busca constante de aprendizado, no intuito de contribuir pra essa grande inovação que vem ocorrendo no mundo. Desafiando-me todos os dias, ultrapassando meus limites e com pequenas conquistas, vou moldando minha mente para me levar ao impossível.
+  </p>
 
-<h4 align="center"><i>"No one ever made a difference by being like everyone else."_TGS</i></h4>
+<p align="center"><i>"No one ever made a difference by being like everyone else."_TGS</i></p>
 
 </br>
 
