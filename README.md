@@ -36,23 +36,21 @@ NodeJS
 Colaboro ajudando iniciantes em seus códigos, analisando possíveis erros e
 auxiliando no entendimento da documentação.
 
-<br>
+</br>
 
 <h3>∻ Conte Comigo</h3>
 Crio conteúdos informativos para ajudar quem está iniciando na area de
 desenvolvimento. São compartilhados na minha página no instagram.
 
-<br>
-<h6 align="center"> Contatos</h6>
-<!--site de icons:5https://icon-icons.com/icon-5>
 
+<h6 align="center">Contatos</h6>
 <h1 align="center">
-<a href="https://www.linkedin.com/in/susyannevr/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/linkedin.png" width="25" height="25"> </a> 
-<a href="https://www.instagram.com/girlindev/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/instagram.png" width="25" height="25"></a> 
-<a href="mailto:suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/email.png" width="25" height="25"> </a> 
-<a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/twitch.png" width="25" height="25"></a>  <a href="https://t.me/Susy_WDev" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/telegram.png" width="25" height="25"></a> 
+<a href="https://www.linkedin.com/in/susyannevr/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/linkedin.png" width="25" height="25"> </a> <a href="https://www.instagram.com/girlindev/" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/instagram.png" width="25" height="25"></a> <a href="mailto:suzyanne_08@hotmail.com" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/email.png" width="25" height="25"> </a> <a href="https://www.twitch.tv/sany_girlcode" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/twitch.png" width="25" height="25"></a>  <a href="https://t.me/Susy_WDev" target="_blank" rel="noopener"> <img src="https://github.com/SusyAnneR/SusyAnneR/blob/master/telegram.png" width="25" height="25"></a> 
 </h1>
-  
+
+</br>
+
 ![image](https://user-images.githubusercontent.com/36510291/98170181-513c4c80-1ecc-11eb-8125-39c0777fa394.png)
 
-  
+<!--site de icons:5https://icon-icons.com/icon-5>
+
